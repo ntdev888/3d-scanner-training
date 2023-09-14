@@ -1,5 +1,18 @@
 # Volumetric Automotive Design Training overview
 
+## FOREWORD
+
+Below is the content from what was my online training platform. Unfrotunately I am not good at marketing so it cost 10x more to host the web platform than it made in money. After letting it sit for 2 years I have decided to make it open source.
+
+The material maybe outdated but it is pretty complete.
+The links that do not go anywhere I had not completed.
+I did however do a single video on how to 3d scan.
+
+If you want to buy me a coffee, flick me some crypto (just easiest as I live in New Zealand)
+BTC Wallet -
+ETH Wallet -
+BNB Wallet -
+
 CAD/CAM Specific training designed to cater for Automotive engineering
 
 [Overview](Volumetric%20Automotive%20Design%20Training%20overview%20a4b4e487213e4505870034ae6786ee22/Overview%204139d4a1452e4be7aa5de1135610a596.md)
