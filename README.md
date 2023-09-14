@@ -1,4 +1,4 @@
-# Volumetric Automotive Design Training overview
+# Volumetric Automotive Design Training
 
 ## FOREWORD
 
@@ -8,10 +8,15 @@ The material maybe outdated but it is pretty complete.
 The links that do not go anywhere I had not completed.
 I did however do a single video on how to 3d scan.
 
+Bare with my while I try to find a place to host GB of 3d scans for free...
+
 If you want to buy me a coffee, flick me some crypto (just easiest as I live in New Zealand)
-BTC Wallet -
-ETH Wallet -
-BNB Wallet -
+
+- BTC Wallet :bc1qh5zrgspurww40smhjw9dpjgxfz9wsp48h7fdgp
+- ETH Wallet :0x308C9AFFb090e495C258c482C6f9E8a8E1ca5eBE
+- BNB Wallet :bnb1zkpqn2ywasa7l3h2whc49hs2kf3rh6a7ylatvn
+
+ENJOY!!
 
 CAD/CAM Specific training designed to cater for Automotive engineering
 
