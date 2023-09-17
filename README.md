@@ -8,7 +8,6 @@ The material maybe outdated but it is pretty complete.
 The links that do not go anywhere I had not completed.
 I did however do a single video on how to 3d scan.
 
-Bare with my while I try to find a place to host GB of 3d scans for free...
 
 If you want to buy me a coffee, flick me some crypto (just easiest as I live in New Zealand)
 
@@ -19,6 +18,19 @@ If you want to buy me a coffee, flick me some crypto (just easiest as I live in 
 ENJOY!!
 
 CAD/CAM Specific training designed to cater for Automotive engineering
+
+## Links to training content/3d Scans
+
+<a href="https://mega.nz/folder/Iv0QFArY#GZ6sg3sxXtsBiDom8xQGRQ">Fusion 360 training Content</a>
+
+<a href="https://mega.nz/folder/tnMDxB5D#GKFeKobFWpjUaZ9yDaxLtg">Solidworks Training Content</a>
+
+## Course outline below
+Links will take you to the different course material, each being a .md file. 
+
+The course content is available at the links above.
+
+If these links go dead, please alert me through github and I will investigate.
 
 [Overview](Volumetric%20Automotive%20Design%20Training%20overview%20a4b4e487213e4505870034ae6786ee22/Overview%204139d4a1452e4be7aa5de1135610a596.md)
 
